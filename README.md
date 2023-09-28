@@ -1,2 +1,2 @@
-# ds-demo
+# ds-new
 This is my first Git repository.
